@@ -1,0 +1,7 @@
+ipykernel
+python-dotenv
+langchain-groq
+bs4
+langchain-huggingface
+langchain-chroma
+langchain-community
