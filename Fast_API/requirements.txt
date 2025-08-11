@@ -1,0 +1,6 @@
+python-dotenv
+ipykernel
+langchain-groq
+fastapi
+langserve
+sse_starlette
